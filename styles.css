@@ -1,0 +1,24 @@
+.body {
+    
+   margin: 0;
+   padding: 0;
+  background-color: black;
+  }
+
+ #particles-js{
+     height: 100vh;
+     width: 100%;
+     position:fixed;
+     z-index: -1;
+ }
+ .contenedor{
+     position: relative;
+     z-index: 99;
+ }
+ .imagen{
+opacity: 0.8;
+ }
+ .a{
+     border-radius: 1px solid black;
+
+ }
